@@ -1,0 +1,6 @@
+secrets.h
+*.bin
+*.elf
+build/
+*.py
+*.cvs
