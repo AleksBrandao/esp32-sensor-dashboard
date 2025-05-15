@@ -3,4 +3,4 @@ secrets.h
 *.elf
 build/
 *.py
-*.cvs
+*.csv
